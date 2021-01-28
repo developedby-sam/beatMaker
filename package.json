@@ -1,0 +1,14 @@
+{
+  "name": "beatmaker",
+  "version": "1.0.0",
+  "description": "A simple beatmaker app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Ansari",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
